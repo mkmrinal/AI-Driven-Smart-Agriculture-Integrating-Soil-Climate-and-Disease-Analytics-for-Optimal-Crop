@@ -1,1 +1,2 @@
 # AI-Driven-Smart-Agriculture-Integrating-Soil-Climate-and-Disease-Analytics-for-Optimal-Crop
+This research integrates crop yield and disease prediction into a unified system. Yield prediction utilize Decision Tree, Random Forest, Gradient Boosting, XG-Boost and ensemble methods with weather and soil data, while a CNN model handles disease detection using image analysis. Both models are combined into an interactive web platform, providing real-time, actionable insights to support farmers with data-driven decisions and promote sustainable agriculture.
