@@ -1,0 +1,1 @@
+# AI-Driven-Smart-Agriculture-Integrating-Soil-Climate-and-Disease-Analytics-for-Optimal-Crop
